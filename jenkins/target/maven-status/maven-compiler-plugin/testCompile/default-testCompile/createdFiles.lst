@@ -1,0 +1,13 @@
+jenkins\ItemDetails.class
+jenkins\ManagePage.class
+jenkins\NewItemPage.class
+jenkins\ItemCreated.class
+jenkins\UserPage.class
+jenkins\ConfigurePage.class
+jenkins\JenkinsStepDefinitionsTaskThree.class
+jenkins\LoginPage.class
+jenkins\JenkinsTestsTaskOneAndTwo.class
+jenkins\CucumberRunner.class
+jenkins\HomePage.class
+jenkins\UsersPage.class
+jenkins\AddUserPage.class
